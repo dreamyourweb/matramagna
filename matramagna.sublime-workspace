@@ -1,0 +1,1854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"scoresRenderd	(num)"
+			],
+			[
+				"ge",
+				"geometry	(?)"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"rel",
+				"realName	(?)"
+			],
+			[
+				"pr",
+				"profile	(?)"
+			],
+			[
+				"mus",
+				"mustAnswerPoll"
+			],
+			[
+				"mustA",
+				"mustAnswerQuestions"
+			],
+			[
+				"x",
+				"xAxisGroup	(?)"
+			],
+			[
+				"curre",
+				"currentData	{}"
+			],
+			[
+				"curr",
+				"currentData	{}"
+			],
+			[
+				"ne",
+				"next_question	(num)"
+			],
+			[
+				"sa",
+				"sampledQuestions"
+			],
+			[
+				"Sta",
+				"StatsMonthly	(?)"
+			],
+			[
+				"sta",
+				"statsPub	[]"
+			],
+			[
+				"depe",
+				"department"
+			],
+			[
+				"user",
+				"userId()"
+			],
+			[
+				"cir",
+				"circle_attrs	{}"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"use",
+				"user	{}"
+			],
+			[
+				"up",
+				"updateModifier	{}"
+			],
+			[
+				"st",
+				"statsSelectedFilter"
+			],
+			[
+				"old",
+				"oldStd	(?)"
+			],
+			[
+				"lastCom",
+				"lastCompletedQuestionsDate"
+			],
+			[
+				"last",
+				"lastCompletedQuestionsDate"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"upd",
+				"updateModifier"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"dia",
+				"diary_entries"
+			],
+			[
+				"to",
+				"toISOString"
+			],
+			[
+				"chos",
+				"chosen_option"
+			],
+			[
+				"av",
+				"avg_smell"
+			],
+			[
+				"qe",
+				"question_id"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inser",
+				"insert_doc"
+			],
+			[
+				"is",
+				"insert_doc"
+			],
+			[
+				"D",
+				"DiaryEntries"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"daily",
+				"daily_aggregates"
+			],
+			[
+				"da",
+				"daily_aggregate"
+			],
+			[
+				"stro",
+				"stroke-width"
+			],
+			[
+				"Ques",
+				"Questions"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"no",
+				"no-animation"
+			],
+			[
+				"loadi",
+				"loadingTemplate"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"yA",
+				"yAxis"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"Report",
+				"ReportSetCountry"
+			],
+			[
+				"report",
+				"report_set"
+			],
+			[
+				"must_",
+				"must_have_content"
+			],
+			[
+				"aspe",
+				"aspect_reg"
+			],
+			[
+				"asp",
+				"aspect_res"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"insti",
+				"institution2"
+			],
+			[
+				"inst",
+				"institution2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/body.html",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/piston_pressure_regular.typeface.js",
+			"settings":
+			{
+				"buffer_size": 19833,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/dmd.js",
+			"settings":
+			{
+				"buffer_size": 6803,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/methods.js",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/scores.js",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/dmd_shader.js",
+			"settings":
+			{
+				"buffer_size": 3438,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/dmd.css",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 237.0,
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"TernJS: Reload"
+			],
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"insll",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reini",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setting ",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Andres/Projects/meteor/matramagna",
+		"/C/Users/Andres/Projects/meteor/matramagna/.meteor",
+		"/C/Users/Andres/Projects/meteor/matramagna/client",
+		"/C/Users/Andres/Projects/meteor/matramagna/public"
+	],
+	"file_history":
+	[
+		"/C/Users/Andres/Projects/meteor/matramagna/lib/score.js",
+		"/C/Users/Andres/Projects/meteor/matramagna/.meteor/packages",
+		"/C/Users/Andres/Projects/meteor/matramagna/client/cocogoose_regular.typeface.js",
+		"/C/Users/Andres/Projects/meteor/matramagna/client/dmd_shader.js",
+		"/C/Users/Andres/Projects/meteor/matramagna/client/dmd.html",
+		"/C/Users/Andres/Projects/meteor/matramagna/matramagna.sublime-project",
+		"/C/Users/Andres/Projects/meteor/Vagrantfile",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/linechart.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/mystyle.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/shared/body.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/pickadate/tests/units/base.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/tests/units/base.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/lib/themes-source/base.less",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/_docs/base.htm",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/menu.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/main_menu.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/desktop.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/smell.html",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/ha.svg",
+		"/C/Users/Andres/Projects/meteor/smell/.gitignore",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/lib/translations/gl_ES.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/examples/inputs/GenericSync/accumulator.html",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icons/diary_active.svg",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/layouts/layout.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry_smell.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/profile.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/profile.js",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/poll.svg",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/storypage.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/stats.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/poll.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/polldone.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/poll.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/dots.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry_poll.html",
+		"/C/Users/Andres/Projects/meteor/smell/lib/collections/polls.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/polldone.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/collections/questions.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/questions.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/questions.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/utils/utils.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/tab_bar.html",
+		"/C/Users/Andres/Projects/meteor/smell/lib/controllers/info_controller.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/diary.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/barchart.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/barchart.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/info.html",
+		"/C/Users/Andres/Projects/meteor/smell/public/override/ie9.css",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/famous/inputs/RotateSync.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/router.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/top_bar.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/smell.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/collections/users.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/main_menu.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/colors.less",
+		"/C/Users/Andres/Projects/meteor/smell/lib/controllers/profile_controller.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/controllers/application_controller.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/controllers/questions_controller.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/layouts/layout_full.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/top_bar.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/storypage.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/story.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/story.html",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/src/physics/constraints/Distance.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/famous/physics/constraints/Distance.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry_smell.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/diary_entry_poll.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/collections/diary_entries.js",
+		"/C/Users/Andres/Projects/meteor/smell/server/seeds.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/stats.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/config/at_config.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/categories.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/examples/assets/lib/functionPrototypeBind.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/client.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/layouts/layout.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/admin_question_details.html",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/versions",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/famous/modifiers/StateModifier.js",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icons/smell_active.svg",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icons/stats_active.svg",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/src/math/Vector.js",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icons/stats_inactive.svg",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icons/smell_inactive.svg",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/lib/themes-source/_variables.less",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/demo/styles/less/_variables.less",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/src/views/ContextualView.js",
+		"/C/Users/Andres/Projects/meteor/smell/packages/pickaday/package.js",
+		"/C/Users/Andres/Projects/meteor/smell/packages/pickaday/pickaday-tests.js",
+		"/C/Users/Andres/Projects/meteor/smell/public/fonts/ratchicons.woff",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/famous/physics/forces/VectorField.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/pickadate/lib/themes/rtl.css",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-base/lib/famous/transitions/MultipleTransition.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/notifications.less",
+		"/C/Users/Andres/Projects/meteor/smell/lib/locale/moment_nl.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/notifications.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/notifications.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/guides/layout.md",
+		"/C/Users/Andres/Projects/meteor/smell/packages/pickadate/package.js",
+		"/C/Users/Andres/Projects/meteor/smell/mobile-config.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/story.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/lib/utils.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/examples/utilities/Timer/setInterval.js",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.famono-repos/famous/examples/utilities/Timer/setInterval.html",
+		"/C/Users/Andres/Projects/meteor/smell/smart.json",
+		"/C/Users/Andres/Projects/meteor/smell/lib/smart.require",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/layouts/head.html",
+		"/C/Users/Andres/Projects/meteor/smell/lib/config/departments.js",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/icon-story.svg",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/smile.svg",
+		"/C/Users/Andres/Projects/meteor/smell/public/images/story-bla.svg",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/base/style.less",
+		"/C/Users/Andres/Projects/meteor/smell/client/stylesheets/at.less",
+		"/C/Users/Andres/Projects/meteor/smell/server/publications.js",
+		"/C/Users/Andres/Projects/meteor/smell/smell.sublime-project",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.finished-upgraders",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/release",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/login.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/loading.html",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/dots.js",
+		"/C/Users/Andres/Projects/meteor/smell/lib/permissions.js",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/smile.js",
+		"/C/Users/Andres/Projects/meteor/smell/.git/config",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/packages",
+		"/C/Users/Andres/Projects/meteor/smell/.meteor/.gitignore",
+		"/C/Users/Andres/Projects/meteor/smell/client/views/application.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\Andres\\Projects\\meteor\\smell",
+			"C:\\Users\\Andres\\Projects\\meteor\\smell\\client,C:\\Users\\Andres\\Projects\\meteor\\smell,C:\\Users\\Andres\\Projects\\meteor\\smell\\lib,C:\\Users\\Andres\\Projects\\meteor\\smell\\packages,C:\\Users\\Andres\\Projects\\meteor\\smell\\public,C:\\Users\\Andres\\Projects\\meteor\\smell\\res,C:\\Users\\Andres\\Projects\\meteor\\smell\\res\\drawable,C:\\Users\\Andres\\Projects\\meteor\\smell\\res\\icons,C:\\Users\\Andres\\Projects\\meteor\\smell\\server,C:\\Users\\Andres\\Projects\\meteor\\smell\\tests",
+			"C:\\Users\\Andres\\Projects\\meteor\\smell",
+			"C:\\Users\\Andres\\Projects\\meteor\\smell\\client",
+			"C:\\Users\\Andres\\Projects\\meteor\\smell\\client\\lib",
+			"C:\\Users\\Andres\\Projects\\meteor\\smell",
+			"C:\\Users\\Andres\\Projects\\Rails\\umap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"highScoresObject",
+			"highScore ",
+			"highScore",
+			"maxScore",
+			"highScoresObject",
+			"scoresObject",
+			"objectPositionY",
+			"object",
+			"Id",
+			"remove",
+			"scores",
+			"Piston",
+			"Piston ",
+			"Pressure",
+			"kenzo",
+			"cocogoose",
+			"COCOGOOSE",
+			"font_family_n",
+			"cocogoose_regular",
+			"helvetiker",
+			"backgroundColor[0] * ",
+			"256",
+			"scoreText",
+			"text",
+			"8.0",
+			"size.y",
+			"size.x",
+			"cols",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"128",
+			"textGeo",
+			"geometry",
+			"point",
+			"vUv",
+			"innerHeight",
+			"effect",
+			"effectBloom",
+			"effectVBlur",
+			"effectBloom",
+			"1231",
+			"192",
+			"80",
+			"average",
+			"DotScreenShader",
+			"register",
+			".insert",
+			".update",
+			"hasCompletedPollToday",
+			"pollDiaryEntry",
+			".update",
+			"update",
+			"span",
+			"layout",
+			"11",
+			"div",
+			"startup",
+			"return yScale.rangeBand() * (d.heightScale || 1) - 1",
+			"function(d) { return yScale.rangeBand() * (d.heightScale || 1) - 1",
+			"font-size",
+			"label",
+			"text",
+			"options=\"allowed\"",
+			"radiologie",
+			"padded",
+			"date",
+			"console",
+			"profile",
+			"hasCompletedQuestionsToday",
+			"this",
+			"default prevented!",
+			"a.",
+			"a",
+			".btn",
+			"data: function() {",
+			"data",
+			"onBeforeAction",
+			"        if(!this.ready()) return;",
+			"pathFor 'login'",
+			"login",
+			"log",
+			"yAxisGroup",
+			"xAxisGroup",
+			"function",
+			"funciton",
+			"y",
+			"x",
+			"[0]",
+			"questio",
+			"_id",
+			"questio",
+			"_id",
+			"numQuestions",
+			"next_question",
+			"dataset",
+			"params",
+			"id",
+			"candy-blue",
+			"blue",
+			"ios-green",
+			"{{filterIcon",
+			"{{filterIcon 'all'}}",
+			"style=\"height:300px; padding:4px; margin:0 0 4px 4px\"",
+			"filterIsSelectedCSS",
+			"icon-check",
+			"filter",
+			"data-filter",
+			".cat",
+			"a30",
+			"function(){",
+			"Template.currentData()",
+			"newStats",
+			"updateSelectorString",
+			"statsMonthly",
+			"newVar",
+			"newMean",
+			"newMax",
+			"newN",
+			"newMax",
+			"newN",
+			"date || ",
+			"oldVar",
+			"oldMean",
+			"oldMin",
+			"oldN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/body.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/piston_pressure_regular.typeface.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19381,
+								19381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 133795.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/dmd.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4620,
+								4620
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Andres\\Projects\\meteor\\matramagna",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/methods.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/scores.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/dmd_shader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 488.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "client/dmd.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "matramagna.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pist",
+				"public\\piston_pressure_regular.typeface.js"
+			],
+			[
+				"body",
+				"client\\body.html"
+			],
+			[
+				"layfu",
+				"client\\views\\layouts\\layout_full.html"
+			],
+			[
+				"lay",
+				"client\\views\\layouts\\layout.html"
+			],
+			[
+				"menu",
+				"client\\views\\main_menu.html"
+			],
+			[
+				"desk",
+				"client\\stylesheets\\desktop.less"
+			],
+			[
+				"smell",
+				"client\\views\\smell.js"
+			],
+			[
+				"haed",
+				"client\\views\\layouts\\head.html"
+			],
+			[
+				"polldon",
+				"client\\views\\polldone.js"
+			],
+			[
+				"poll",
+				"client\\views\\polldone.html"
+			],
+			[
+				"story",
+				"client\\views\\story.js"
+			],
+			[
+				"rout",
+				"lib\\router.js"
+			],
+			[
+				"diary",
+				"client\\views\\diary.js"
+			],
+			[
+				"pub",
+				"server\\publications.js"
+			],
+			[
+				"polld",
+				"client\\views\\polldone.html"
+			],
+			[
+				"dotsjs",
+				"client\\views\\dots.js"
+			],
+			[
+				"seed",
+				"server\\seeds.js"
+			],
+			[
+				"ques",
+				"lib\\collections\\questions.js"
+			],
+			[
+				"user",
+				"lib\\collections\\users.js"
+			],
+			[
+				"mys",
+				"client\\stylesheets\\mystyle.less"
+			],
+			[
+				"diar",
+				"client\\views\\diary.html"
+			],
+			[
+				"bar",
+				"client\\views\\barchart.js"
+			],
+			[
+				"line",
+				"client\\views\\linechart.js"
+			],
+			[
+				"infoon",
+				"lib\\controllers\\info_controller.js"
+			],
+			[
+				"profcon",
+				"lib\\controllers\\profile_controller.js"
+			],
+			[
+				"rotu",
+				"lib\\router.js"
+			],
+			[
+				"men",
+				"client\\views\\main_menu.html"
+			],
+			[
+				"tab",
+				"client\\views\\tab_bar.html"
+			],
+			[
+				"mainme",
+				"client\\views\\main_menu.js"
+			],
+			[
+				"inf",
+				"client\\views\\info.html"
+			],
+			[
+				"prof",
+				"client\\views\\profile.html"
+			],
+			[
+				"topbar",
+				"client\\views\\top_bar.html"
+			],
+			[
+				"profilcon",
+				"lib\\controllers\\profile_controller.js"
+			],
+			[
+				"profile.",
+				"client\\views\\profile.js"
+			],
+			[
+				"profil",
+				"client\\views\\profile.js"
+			],
+			[
+				"storypag",
+				"client\\views\\storypage.js"
+			],
+			[
+				"stor",
+				"client\\views\\storypage.html"
+			],
+			[
+				"pro",
+				"client\\views\\profile.html"
+			],
+			[
+				"top",
+				"client\\views\\top_bar.js"
+			],
+			[
+				"sta",
+				"client\\views\\stats.html"
+			],
+			[
+				"dia",
+				"client\\views\\diary.html"
+			],
+			[
+				"layou",
+				"client\\views\\layouts\\layout.html"
+			],
+			[
+				"colo",
+				"client\\stylesheets\\colors.less"
+			],
+			[
+				"menujs",
+				"client\\views\\main_menu.js"
+			],
+			[
+				"stro",
+				"client\\views\\story.js"
+			],
+			[
+				"versions",
+				".meteor\\versions"
+			],
+			[
+				"barc",
+				"client\\views\\barchart.js"
+			],
+			[
+				"pr",
+				"client\\views\\profile.js"
+			],
+			[
+				"por",
+				"client\\views\\profile.html"
+			],
+			[
+				"myst",
+				"client\\stylesheets\\mystyle.less"
+			],
+			[
+				"momen",
+				"lib\\locale\\moment_nl.js"
+			],
+			[
+				"use",
+				"lib\\collections\\users.js"
+			],
+			[
+				"profilejs",
+				"client\\views\\profile.js"
+			],
+			[
+				"layo",
+				"client\\views\\layouts\\layout.html"
+			],
+			[
+				"rou",
+				"lib\\router.js"
+			],
+			[
+				"sme",
+				"client\\views\\smell.html"
+			],
+			[
+				"profi",
+				"client\\views\\profile.js"
+			],
+			[
+				"collque",
+				"lib\\collections\\questions.js"
+			],
+			[
+				"at",
+				"lib\\config\\at_config.js"
+			],
+			[
+				"atc",
+				"lib\\config\\at_config.js"
+			],
+			[
+				"styl",
+				"client\\stylesheets\\base\\style.less"
+			],
+			[
+				"vers",
+				".meteor\\versions"
+			],
+			[
+				"sm",
+				"client\\views\\smell.html"
+			],
+			[
+				"version",
+				".meteor\\versions"
+			],
+			[
+				"permi",
+				"lib\\permissions.js"
+			],
+			[
+				"pack",
+				".meteor\\packages"
+			],
+			[
+				"perm",
+				"lib\\permissions.js"
+			],
+			[
+				"dots.",
+				"client\\views\\dots.js"
+			],
+			[
+				"dots",
+				"client\\views\\dots.html"
+			],
+			[
+				"main",
+				"client\\views\\main_menu.html"
+			],
+			[
+				"loa",
+				"client\\views\\loading.html"
+			],
+			[
+				"pac",
+				".meteor\\packages"
+			],
+			[
+				"smile",
+				"client\\views\\smile.js"
+			],
+			[
+				"diaryent",
+				"client\\views\\diary_entry_smell.js"
+			],
+			[
+				"diarentr",
+				"client\\views\\diary_entry_poll.js"
+			],
+			[
+				"diaryen",
+				"client\\views\\diary_entry.js"
+			],
+			[
+				"stats",
+				"client\\views\\stats.js"
+			],
+			[
+				"loig",
+				"client\\views\\login.html"
+			],
+			[
+				"char",
+				"client\\stylesheets\\charts.less"
+			],
+			[
+				"li",
+				"client\\views\\linechart.js"
+			],
+			[
+				"stat",
+				"client\\views\\stats.js"
+			],
+			[
+				"quess",
+				"lib\\collections\\questions.js"
+			],
+			[
+				"r",
+				"lib\\router.js"
+			],
+			[
+				"que",
+				"client\\views\\questions.js"
+			],
+			[
+				"dots.js",
+				"client\\views\\dots.js"
+			],
+			[
+				"dots.s",
+				"client\\views\\dots.js"
+			],
+			[
+				"router",
+				"lib\\router.js"
+			],
+			[
+				"smell.js",
+				"client\\views\\smell.js"
+			],
+			[
+				"topb",
+				"client\\views\\top_bar.html"
+			],
+			[
+				"diaryentrysme",
+				"client\\views\\diary_entry_smell.html"
+			],
+			[
+				"diaent",
+				"client\\views\\diary_entry.js"
+			],
+			[
+				"diaentr",
+				"client\\views\\diary_entry_smell.html"
+			],
+			[
+				"diarens",
+				"client\\views\\diary_entry_smell.js"
+			],
+			[
+				"cat",
+				"lib\\categories.js"
+			],
+			[
+				"col",
+				"client\\stylesheets\\colors.less"
+			],
+			[
+				"stroy",
+				"client\\views\\story.js"
+			],
+			[
+				"cllayou",
+				"client\\views\\layouts\\layout.js"
+			],
+			[
+				"iconles",
+				"client\\stylesheets\\icons.less"
+			],
+			[
+				"less",
+				"client\\stylesheets\\mystyle.less"
+			],
+			[
+				"dail",
+				"client\\views\\diary_entry.html"
+			],
+			[
+				"poll.",
+				"client\\views\\poll.js"
+			],
+			[
+				"pol",
+				"client\\views\\poll.html"
+			],
+			[
+				"stas",
+				"client\\views\\stats.html"
+			],
+			[
+				"statsmo",
+				"lib\\collections\\stats_monthly.js"
+			],
+			[
+				"menu.js",
+				"client\\views\\main_menu.js"
+			],
+			[
+				"ie",
+				"public\\override\\ie9.css"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"diarpo",
+				"client\\views\\diary_entry_poll.html"
+			],
+			[
+				"diaryentrysm",
+				"client\\views\\diary_entry_smell.html"
+			],
+			[
+				"chart",
+				"client\\views\\barchart.js"
+			],
+			[
+				"colq",
+				"lib\\collections\\questions.js"
+			],
+			[
+				"colque",
+				"lib\\collections\\questions.js"
+			],
+			[
+				"smel",
+				"client\\views\\smell.html"
+			],
+			[
+				"layout",
+				"client\\views\\layout.html"
+			],
+			[
+				"ru",
+				"lib\\router.js"
+			],
+			[
+				"quesj",
+				"client\\views\\questions.js"
+			],
+			[
+				"sli",
+				"client\\stylesheets\\slider.less"
+			],
+			[
+				"my",
+				"client\\stylesheets\\mystyle.less"
+			],
+			[
+				"slide",
+				"client\\stylesheets\\slider.less"
+			],
+			[
+				"quesht",
+				"client\\views\\questions.html"
+			],
+			[
+				"quesh",
+				"client\\views\\questions.html"
+			],
+			[
+				"ie9",
+				"public\\override\\ie9.css"
+			],
+			[
+				"ut",
+				"lib\\utils\\utils.js"
+			],
+			[
+				"util",
+				"lib\\utils.js"
+			],
+			[
+				"viewquies",
+				"client\\views\\questions.js"
+			],
+			[
+				"publ",
+				"server\\publications.js"
+			],
+			[
+				"viewsmell",
+				"client\\views\\smell.js"
+			],
+			[
+				"touc",
+				"client\\lib\\jquery.touchwipe.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Andres\\Projects\\meteor\\smell\\smell.sublime-project"
+			],
+			[
+				"p",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\smell.sublime-project"
+			],
+			[
+				"uma",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\umap.sublime-project"
+			],
+			[
+				"uam",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\mozartadmin.sublime-project"
+			],
+			[
+				"umap",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\umap.sublime-project"
+			],
+			[
+				"smell",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\smell.sublime-project"
+			],
+			[
+				"moz",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\mozartadmin.sublime-project"
+			],
+			[
+				"moza",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\mozartadmin.sublime-project"
+			],
+			[
+				"bierapp",
+				"C:\\Users\\Andres\\Documents\\Sublime Text 3 Projects\\bierapp.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
