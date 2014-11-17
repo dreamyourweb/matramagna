@@ -48,7 +48,7 @@ THREE.DMDShader = {
             "vec2 c = vec2(floor(vUv[0]*size[0] + 0.5)/size[0], floor(vUv[1]*size[1] + 0.5)/size[1]);",
             "vec4 color = texture2D( tDiffuse, c );",
 
-            "float average = floor((( color.r + color.g + color.b ) / 2.5) * colorDepth)/colorDepth + 1.0/colorDepth;",
+            "float average = floor((( color.r + color.g + color.b ) / 2.5) * colorDepth)/colorDepth + 0.5/colorDepth;",
             "vec4 red = vec4((1.0 - average)/5.0 + 1.0, 0.0, 0.0, 0.0);",
             "vec4 orange = vec4( 1.0, 0.4, 0.0, 0.0 );",
             "float pixelHard =  (sign(cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * (sign(cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0;",

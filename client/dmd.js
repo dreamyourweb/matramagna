@@ -17,6 +17,7 @@ Template.dmd.rendered = function(){
                 var cols = 256;
                 var aspect = window.innerWidth / window.innerHeight;
                 renderer.setSize( window.innerWidth, window.innerHeight );
+                renderer.autoClear = false;
                 document.body.appendChild( renderer.domElement );
 
                 //
@@ -53,9 +54,16 @@ Template.dmd.rendered = function(){
                 var effect = new THREE.ShaderPass( THREE.DMDShader );
                 effect.uniforms[ 'colorDepth' ].value = 8;
                 effect.uniforms[ 'size' ].value = new THREE.Vector2( cols, cols/aspect );
-                effect.renderToScreen = true;
+                // effect.renderToScreen = true;
                 composer.addPass( effect );
 
+                effectBloom = new THREE.BloomPass(3, 25, 5);
+                // effectBloom.renderToScreen = true;
+                composer.addPass(effectBloom);
+
+                var copyPass = new THREE.ShaderPass( THREE.CopyShader );
+                copyPass.renderToScreen = true;
+                composer.addPass( copyPass );   
 
 
                 scores.forEach(function(score){
@@ -124,7 +132,7 @@ Template.dmd.rendered = function(){
                 }
                 
 
-                composer.render();
+                composer.render(0.05);
 
             }
 
