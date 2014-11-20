@@ -13,7 +13,7 @@ Template.dmd.rendered = function(){
 
             function init() {
 
-                renderer = new THREE.WebGLRenderer();
+                renderer = new THREE.WebGLRenderer({devicePixelRatio: 1});
                 var cols = 256;
                 var aspect = window.innerWidth / window.innerHeight;
                 renderer.setSize( window.innerWidth, window.innerHeight );
@@ -57,7 +57,7 @@ Template.dmd.rendered = function(){
                 // effect.renderToScreen = true;
                 composer.addPass( effect );
 
-                effectBloom = new THREE.BloomPass(3, 25, 5);
+                effectBloom = new THREE.BloomPass(0, 25, 5);
                 // effectBloom.renderToScreen = true;
                 composer.addPass(effectBloom);
 
@@ -79,7 +79,7 @@ Template.dmd.rendered = function(){
                         console.log(index);
                         console.log(before);
 
-                        if (score.score && index === 0 && before !== null) {
+                        // if (score.score && index === 0 && before !== null) {
                             var currentDate = new Date(new Date() - 10000 );
                             addScore(score);
                             console.log("Added score");
@@ -87,7 +87,7 @@ Template.dmd.rendered = function(){
                                 scoresObject.position.y = scoresObjectPositionY;
                             }
                             // updateHighScores(score)
-                        }
+                        // }
                     },
                     removed: function(score){
 
@@ -98,7 +98,7 @@ Template.dmd.rendered = function(){
 
                 highScores.observe({
                     addedAt: function(highscore, index, before){
-                        updateHighScore(highscore);
+                        // updateHighScore(highscore);
                     },
                     removed: function(highscore){
                         scene.remove(scene.getObjectByName(highscore._id+"name"));
@@ -137,6 +137,9 @@ Template.dmd.rendered = function(){
             }
 
             function addScore(score){
+
+                console.log("Rendering score");
+
                 var y = -scoresRenderd * 200;
 
                 var nameText = new THREE.TextGeometry(score.player, {size: 80, height: 20, curveSegments: 2, font: "helvetiker"});

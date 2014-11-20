@@ -4,8 +4,8 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
 insecure
-limemakers:three
+limemakers:three@0.69.1
 mrt:numeral
+autopublish
 

@@ -51,11 +51,12 @@ THREE.DMDShader = {
             "float average = floor((( color.r + color.g + color.b ) / 2.5) * colorDepth)/colorDepth + 0.5/colorDepth;",
             "vec4 red = vec4((1.0 - average)/5.0 + 1.0, 0.0, 0.0, 0.0);",
             "vec4 orange = vec4( 1.0, 0.4, 0.0, 0.0 );",
-            "float pixelHard =  (sign(cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * (sign(cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0;",
-            "float pixelSoft =  ((cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * ((cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0;",
-            "float r = red[0] * average * orange[0] * pixelHard * pixelSoft;",
-            "float g = average * orange[1] * pixelHard * pixelSoft;",
-            "float b = average * orange[2] * pixelHard * pixelSoft;",
+            // "float pixelHard =  (sign(cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * (sign(cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0;",
+            "float pixelHard =  clamp(((cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * ((cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0 - 0.5, 0.0, 0.333) * 3.333;",
+            // "float pixelSoft =  ((cos(vUv[0]*size[0]*2.0*3.1415)+0.6)+1.0)/2.0 * ((cos(vUv[1]*size[1]*2.0*3.1415)+0.6)+1.0)/2.0;",
+            "float r = red[0] * average * orange[0] * pixelHard;",
+            "float g = average * orange[1] * pixelHard;",
+            "float b = average * orange[2] * pixelHard;",
 
 
             "gl_FragColor = vec4( r, g, b, 1 );",
