@@ -13,7 +13,7 @@ Template.dmd.rendered = function(){
 
             function init() {
 
-                renderer = new THREE.WebGLRenderer({devicePixelRatio: 1});
+                renderer = new THREE.WebGLRenderer({antialias: true});
                 var cols = 256;
                 var aspect = window.innerWidth / window.innerHeight;
                 renderer.setSize( window.innerWidth, window.innerHeight );
