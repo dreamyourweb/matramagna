@@ -57,7 +57,7 @@ Template.dmd.rendered = function(){
                 // effect.renderToScreen = true;
                 composer.addPass( effect );
 
-                effectBloom = new THREE.BloomPass(5, 25, 5);
+                effectBloom = new THREE.BloomPass(2, 25, 5);
                 // effectBloom.renderToScreen = true;
                 composer.addPass(effectBloom);
 
