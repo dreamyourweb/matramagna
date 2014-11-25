@@ -98,7 +98,7 @@ Template.dmd.rendered = function(){
 
                 highScores.observe({
                     addedAt: function(highscore, index, before){
-                        // updateHighScore(highscore);
+                        updateHighScore(highscore);
                     },
                     removed: function(highscore){
                         scene.remove(scene.getObjectByName(highscore._id+"name"));
