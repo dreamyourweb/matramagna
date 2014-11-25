@@ -98,12 +98,9 @@ Template.dmd.rendered = function(){
 
                 highScores.observe({
                     addedAt: function(highscore, index, before){
+                        scene.remove(scene.getObjectByName("highscore_score"));
+                        scene.remove(scene.getObjectByName("highscore_name"));
                         updateHighScore(highscore);
-                    },
-                    removed: function(highscore){
-                        scene.remove(scene.getObjectByName(highscore._id+"name"));
-                        scene.remove(scene.getObjectByName(highscore._id+"score"));
-
                     }
                 });
                 
@@ -151,7 +148,7 @@ Template.dmd.rendered = function(){
                 nameMesh.name = score._id+"name";
                 scoresObject.add(nameMesh);
 
-                 var scoreText = new THREE.TextGeometry(numeral(score.score).format('0,0'), {size: 100, height: 20, curveSegments: 2, font: "piston pressure"});
+                 var scoreText = new THREE.TextGeometry(numeral(score.score).format('0,0'), {size: 100, height: 20, curveSegments: 2, font: "helvetiker"});
                 scoreText.computeBoundingBox();
                 scoreText.computeVertexNormals();
                 var centerOffsetscoreText = -0.5 * ( scoreText.boundingBox.max.x - scoreText.boundingBox.min.x );
@@ -173,16 +170,16 @@ Template.dmd.rendered = function(){
                 var centerOffsetNameText = -0.5 * ( nameText.boundingBox.max.x - nameText.boundingBox.min.x );
                 var nameMesh = new THREE.Mesh( nameText, material );
                 nameMesh.position.set( -790, 400, -1000 );
-                nameMesh.name = score._id+"name";
+                nameMesh.name = "highscore_score";
                 scene.add(nameMesh);
 
-                var scoreText = new THREE.TextGeometry(numeral(score.score).format('0,0'), {size: 200, height: 20, curveSegments: 2, font: "piston pressure"});
+                var scoreText = new THREE.TextGeometry(numeral(score.score).format('0,0'), {size: 200, height: 20, curveSegments: 2, font: "helvetiker"});
                 scoreText.computeBoundingBox();
                 scoreText.computeVertexNormals();
                 var centerOffsetscoreText = -0.5 * ( scoreText.boundingBox.max.x - scoreText.boundingBox.min.x );
                 var scoreMesh = new THREE.Mesh( scoreText, material );
                 scoreMesh.position.set( centerOffsetscoreText, 180,-1000 );
-                scoreMesh.name = score._id+"score";
+                scoreMesh.name = "highscore_name";
                 scene.add(scoreMesh);
             }
 

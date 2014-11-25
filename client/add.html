@@ -1,0 +1,14 @@
+<template name="add">
+    <!-- <img src="images/logo.png"> -->
+    <div class="message {{messageClass}}">
+        {{message}}
+    </div>
+    <div class="form">
+        <h1>Voeg je score toe!</h1>
+        <form>
+            <input type="text"   name="name"  placeholder="Je naam" required>
+            <input type="number" name="score" placeholder="Je score"  min="0" required>
+            <button>Score!</button>
+        </form>
+    </div>
+</template>

@@ -1,0 +1,116 @@
+@orikamiBlue: #29abe2;
+@backgroundColor: #b3e5e5;
+
+html, body{
+  height: 100%
+}
+
+@font-face {
+    font-family: 'Santor';
+    src: url('fonts/santor-webfont.eot');
+    src: url('fonts/santor-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/santor-webfont.woff') format('woff'),
+         url('fonts/santor-webfont.ttf') format('truetype'),
+         url('fonts/santor-webfont.svg#santorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url('fonts/montserrat-bold-webfont.eot');
+    src: url('fonts/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-bold-webfont.woff') format('woff'),
+         url('fonts/montserrat-bold-webfont.ttf') format('truetype'),
+         url('fonts/montserrat-bold-webfont.svg#montserratbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('fonts/montserrat-regular-webfont.eot');
+    src: url('fonts/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-regular-webfont.woff') format('woff'),
+         url('fonts/montserrat-regular-webfont.ttf') format('truetype'),
+         url('fonts/montserrat-regular-webfont.svg#montserratregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    background: @backgroundColor;
+    width: 100%;
+    font-family: "Open Sans";
+    color: #29abe2;
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center 50px;
+    background-size: auto 250px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Santor";
+}
+
+*{
+    box-sizing: border-box;
+}
+
+img{
+    height: 30%;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.form{
+    margin-top: 300px;
+    width: 60%;
+    transform: translate(-50%, 0);
+    position: relative;
+    left: 50%;
+
+    input{
+        padding: 20px;
+        font-size: 50px;
+        width: 100%;
+        margin-bottom: 40px;
+        background: #d9f2f2;
+        border: 1px solid #ccc;
+        color: #448899;
+        &:focus{
+            box-shadow: 0px 0px 5px #999;
+        }
+    }
+    button{
+        width: 100%;
+        background: none;
+        padding: 20px;
+        font-size: 30px;
+        border: solid 1px #007095;
+        margin: 0;
+        color: #448899;
+        &:hover{
+            background: #448899;
+            border: none;
+            color: white;
+        }
+    }
+}
+
+.message{
+    z-index: 10;
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    left: 5%;
+    top: 5%;
+    transform: scale(0);
+    box-shadow: 0px 0px 50px #999;
+    background: @orikamiBlue;
+    transition: transform 300ms;
+    &.active{
+        transform: scale(1);
+    }
+}
