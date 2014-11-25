@@ -8,4 +8,7 @@ insecure
 limemakers:three@0.69.1
 mrt:numeral
 autopublish
+meteorhacks:npm
 
+
+npm-container
